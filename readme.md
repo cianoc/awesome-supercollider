@@ -67,20 +67,20 @@
 ## Learning resources
 
 ### Written tutorials
+- ⭐[howto_co34pt_liveCode](https://theseanco.github.io/howto_co34pt_liveCode/) - Livecoding tutorial
+- ⭐[Nick Collins' SuperCollider tutorial](http://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html) - Course material for a 12 week course on SuperCollider
+- ⭐[A-Practical-Guide](http://doc.sccode.org/Browse.html#Streams-Patterns-Events%3EA-Practical-Guide) - A fantastic pattern tutorial (which can also be found in your help files)
+- [learn](https://github.com/supercollider/learn) - Official SuperCollider tutorial
 - [A gentle introduction to SuperCollider](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf) –  Introduction to SC by Stanford's CCRMA
 - [How to write server plugins using C++](https://scsynth.org/t/tutorial-supercollider-server-plugins-in-c/3449) - How to create UGens
-- [howto_co34pt_liveCode](https://theseanco.github.io/howto_co34pt_liveCode/) - Livecoding tutorial
-- [Nick Collins' SuperCollider tutorial](http://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html) - Course material for a 12 week course on SuperCollider
 - [udk00-Audiovisual_Programming](http://redfrik.github.io/udk00-Audiovisual_Programming/) - Fredrik Olofsson's course materials for UdK Berlin
 - [Pseudoclasses with events](https://web.archive.org/web/20141008053015/http://www.tmroyal.com/supercollider-pseudoclasses-with-events.html) - Faking object-oriented programming in SuperCollider with Events
 - [SuperCollider_Tutorials](https://github.com/brunoruviaro/SuperCollider_Tutorials) - SC tutorials
-- [learn](https://github.com/supercollider/learn) - Official SuperCollider tutorial
-- [A-Practical-Guide](http://doc.sccode.org/Browse.html#Streams-Patterns-Events%3EA-Practical-Guide) - A fantastic pattern tutorial (which can also be found in your help files)
 - [Minibee Tutorial](http://roosnaflak.com/tech-and-research/minibee-tutorials/) - How to work with the Minibee sensors (for dance performances, etc.) in SuperCollider
-- [Mads Kjeldgaard's Tech and research](https://www.madskjeldgaard.dk/posts) - A blog containing a range of tips, tricks and tutorials
 - [Implementing a SuperCollider UGen in Rust](http://www.andrewchristophersmith.com/2015/01/01/implementing-a-supercollider-external-in-rust/)
 - [SolarPowered SuperCollider on a Raspberry Pi Zero](http://fredrikolofsson.com/f0blog/?q=node/655) - Great little guide for using SC on a solar powered Pi Zero.
 - [Tutorials on making drones and sample-based synths in SuperCollider](https://github.com/schollz/supercollider-tutorials) - Two tutorials that each start from the basics and build towards making a drone or a efficient sampler engine.
+- [Nathan Ho's Blog](https://nathan.ho.name/archive) - fantastic (if often advanced) discussions of various music, DSP and SuperCollider related topics.
 
 ### Videos
 - ⭐[SuperCollider Tutorials](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - Tutorials by Eli Fieldsteel covering a range of subjects
@@ -95,6 +95,7 @@
 - [SoundEngraver](https://www.youtube.com/channel/UCRxJO2INa3EWX19IfoWqS5Q) - video demos showcasing a variety of things in SC
 - [MAT Seminar | James McCartney | November 8, 2021](https://vimeo.com/643723477) - James McCartney speaking about SuperCollider and beyond.
 - [Podcast 350: James McCartney](https://www.youtube.com/watch?v=qmayIRViJms) - Really informative talk with James McCartney about SuperCollider among other things.
+- [https://www.youtube.com/@synth_def](SynthDef) - Recorded live coding streams from Nathan Ho.
 
 ### Books
 - ⭐[SuperCollider for the Creative Musician - A Practical Guide](https://global.oup.com/academic/product/supercollider-for-the-creative-musician-9780197617007) - Outstanding tutorial written by Eli Fieldsteel, also responsible for an excellent video tutorial series. 
