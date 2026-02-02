@@ -1,7 +1,3 @@
-# ARCHIVED
-
-This repo has been archived since I cannot maintain it anymore and noone has stepped up to take over. The info is still good but out of date (especially in the quarks department). Feel free to fork if you want to take over this project.
-
 # Awesome SuperCollider[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![chaos](chaos-algo.png "chaos")
@@ -130,6 +126,7 @@ This repo has been archived since I cannot maintain it anymore and noone has ste
 - [faustgen](https://github.com/madskjeldgaard/faustgen-supercollider/) - embedded faust compiler for SuperCollider
 
 ## Quarks and extensions
+_Please note that I don't personally use quarks, so I do not keep this up to date or track them. I accept PRs_
 
 ### Metacontrol, mapping and gestures
 - [Influx](https://github.com/supercollider-quarks/Influx) - System for complex mapping of gestures
