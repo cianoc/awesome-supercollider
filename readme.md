@@ -213,17 +213,18 @@ _Please note that I don't personally use quarks, so I do not keep this up to dat
 - [ReaCollider](https://github.com/madskjeldgaard/ReaCollider) - Generate Reaper projects.
 
 ### Emulations / Clones
-- [DX7-SuperCollider](https://github.com/everythingwillbetakenaway/DX7-Supercollider) - accurate Yamaha DX-7 clone. Programmed in Supercollider
+- ⭐[Xynthi](https://github.com/mphonic/xynthii) - Absolutely not an emulation of the EMS Synthi A. It just looks a lot like it.
+- ⭐[DX7-SuperCollider](https://github.com/everythingwillbetakenaway/DX7-Supercollider) - accurate Yamaha DX-7 clone. Programmed in Supercollider
 - [Benjolis](https://scsynth.org/t/benjolin-inspired-instrument/1074/2) - Instrument inspired by Rob Hordijk's chaotic Benjolin synth
-- [B700s](https://github.com/lantertronics/b700ish) - A clone of the Buchla 700
+- ⭐[B700s](https://github.com/lantertronics/b700ish) - A clone of the Buchla 700
 
 ### Granular
 - [granular-synth](https://github.com/cagnolone/granular-synth) - A simple granular synth GUI, with a handy time/frequency graph
 - [granular from Discrete Structures course](https://raw.githubusercontent.com/redFrik/udk18-Discrete_Structures/master/udk171214/granulator.scd) - loads a folder of files into buffers and granulates everything.
 
 ### Other
-- [LNX Studio](http://lnxstudio.sourceforge.net/) - a Digital Audio Work Station. [Repository](https://github.com/neilcosgrove/LNX_Studio)
-- [TXmodular](http://www.palemoonrising.co.uk/) - TXmodular is a production environment fully written in SC
+- 🤷[LNX Studio](http://lnxstudio.sourceforge.net/) - a Digital Audio Work Station. [Repository](https://github.com/neilcosgrove/LNX_Studio)
+- 🤷[TXmodular](http://www.palemoonrising.co.uk/) - TXmodular is a production environment fully written in SC
 
 ## Single board computers
 ### Norns
@@ -248,31 +249,35 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 
 ## Clients
 ### Language clients
-- [SuperColliderJS](https://crucialfelix.github.io/supercolliderjs/) - JavaScript client
+- [Overtone](http://overtone.github.io/) - Collaborative live coding using Clojure
+- [cl-collider](https://github.com/byulparan/cl-collider) - CommonLisp client
 - [hsc3](http://hackage.haskell.org/package/hsc3) - Haskell client
 - [Lua2SC](https://github.com/sonoro1234/Lua2SC) - Lua client
 - [ScalaCollider](https://github.com/Sciss/ScalaCollider) - Scala client
 - [supriya](https://github.com/josiah-wolf-oberholtzer/supriya) - Python client
 - [sc3](https://github.com/smrg-lm/sc3) - Python port of some of sclang's features
-- [cl-collider](https://github.com/byulparan/cl-collider) - CommonLisp client
-- [sc_client](https://github.com/tonikasoft/sc_client) - Rust client
-- [sorceress](https://github.com/ooesili/sorceress) - Creative coding in Rust / SuperCollider
+- 🤷[sc_client](https://github.com/tonikasoft/sc_client) - Rust client
+- 🤷[sorceress](https://github.com/ooesili/sorceress) - Creative coding in Rust / SuperCollider
+- 🤷[SuperColliderJS](https://crucialfelix.github.io/supercolliderjs/) - JavaScript client
 
 ### Livecode interfaces
-- [TidalCycles](http://tidalcycles.org/) - Haskell based live coding environment for patterns
-- [FoxDot](https://foxdot.org/) – Python based live coding environment running on top of SuperCollider
-- [Overtone](http://overtone.github.io/) - Collaborative live coding using Clojure
-- [Sonic Pi](https://sonic-pi.net/) - Ruby based live coding environment, using SuperCollider as an audio engine 
-- [xi](https://github.com/xi-livecode/xi) - A domain-specific language for live coding musical patterns in Ruby
-- [Ixi Lang](http://www.ixi-audio.net/ixilang/) - Thor Magnusson's live coding environment based on musical agents
+- ⭐[TidalCycles](http://tidalcycles.org/) - Haskell based live coding environment for patterns. Widely used, well documented and very innovative. There is also a JavaScript version under heavy development.
+- ⭐[Sonic Pi](https://sonic-pi.net/) - Ruby based live coding environment, using SuperCollider as an audio engine. Developed for kids, usable by anyone.
+
+- [Ixi Lang](http://www.ixi-audio.net/ixilang/) - Thor Magnusson's live coding environment based on musical agents.
+- 🤷[xi](https://github.com/xi-livecode/xi) - A domain-specific language for live coding musical patterns in Ruby
+- 🤷[FoxDot](https://foxdot.org/) – Python based live coding environment running on top of SuperCollider. Abandoned.
 
 ## Editors 
-- [atom-supercollider](https://github.com/crucialfelix/atom-supercollider) - SuperCollider integration for Atom
+
 - [scel](https://github.com/supercollider/scel) - Emacs interface
 - [vscode_supercollider](https://github.com/salkin-mada/vscode_supercollider) - SuperCollider syntax for Visual Studio Code
 - [Hadron](https://github.com/htor/hadron-editor) - Simple editor with help browser and post window
-- [sckernel](https://github.com/andrewdavis33/sckernel) - Jupyter Notebook kernel
 - [supercollider-sublime](https://github.com/acarabott/supercollider-sublime) - SuperCollider plugin for Sublime Text 3
+
+### Possibly Abandoned
+- 🤷[atom-supercollider](https://github.com/crucialfelix/atom-supercollider) - SuperCollider integration for Atom
+- 🤷[sckernel](https://github.com/andrewdavis33/sckernel) - Jupyter Notebook kernel
 
 ### (Neo)Vim
 - [scvim](https://github.com/supercollider/scvim) - Vim plugin
