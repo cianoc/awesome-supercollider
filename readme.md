@@ -2,7 +2,11 @@
 
 ![chaos](chaos-algo.png "chaos")
 
-> A curated list of SuperCollider stuff
+> A curated list of SuperCollider stuff.
+>
+> Items marked with a ⭐ are recommended, or widely used.
+> 
+> Items marked with a 🤷 are either in development, or appear to have been abandoned.
 
 
 # Contents
