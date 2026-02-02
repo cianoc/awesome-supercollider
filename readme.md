@@ -83,8 +83,9 @@
 - [Tutorials on making drones and sample-based synths in SuperCollider](https://github.com/schollz/supercollider-tutorials) - Two tutorials that each start from the basics and build towards making a drone or a efficient sampler engine.
 
 ### Videos
-- [SuperCollider Tutorials](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - Tutorials by Eli Fieldsteel covering a range of subjects
+- ⭐[SuperCollider Tutorials](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - Tutorials by Eli Fieldsteel covering a range of subjects
 - [Project Free Jazz](https://www.youtube.com/watch?v=AxiG5mjjqzE&list=PLBGCHACLI2b6kawXFK7LayACsIncdyf2f) - A Four part tutorial about algorithmic composition with SuperCollider
+- ⭐[Musical Sound Design in Supercollider video series](https://scsynth.org/t/musical-sound-design-in-supercollider-video-series/2080) - Videos on sound design techniques in SC, including pulsar synthesis examples.
 - [Audio signal processing in SuperCollider](https://www.youtube.com/playlist?list=PL1Zlv_e8Lv9g2NLtDb0X_VhIw9aR7mcJ7) - A series of lectures by Zlatko Baracskai focusing on audio signal processing. 
 - [Live Coding Tutorials](https://www.youtube.com/playlist?list=PLlWmK4qVXO37vgyLeNe8ElF15pInARU6x) - Tutorials specifically about live coding
 - [Masterclass "The Ambisonic Toolkit"](http://www.ambisonictoolkit.net/documentation/supercollider/tutorials/) - A general introduction to ambisonics and the ATK
@@ -92,17 +93,20 @@
 - [Unity 5 and SuperCollider(Custom Sound Engine)](https://www.youtube.com/playlist?list=PLKrJig-8xIiKIznvk_0WArP2ne036TeZV) - How to setup the Unity game engine to work with SuperCollider
 - [SuperCollider and Time](https://medias.ircam.fr/xb090dd_supercollider-and-time) - James McCartney (author of SuperCollider) giving a talk at IRCAM
 - [SoundEngraver](https://www.youtube.com/channel/UCRxJO2INa3EWX19IfoWqS5Q) - video demos showcasing a variety of things in SC
-- [Musical Sound Design in Supercollider video series](https://scsynth.org/t/musical-sound-design-in-supercollider-video-series/2080) - Videos on sound design techniques in SC, including pulsar synthesis examples.
 - [MAT Seminar | James McCartney | November 8, 2021](https://vimeo.com/643723477) - James McCartney speaking about SuperCollider and beyond.
 - [Podcast 350: James McCartney](https://www.youtube.com/watch?v=qmayIRViJms) - Really informative talk with James McCartney about SuperCollider among other things.
 
 ### Books
+- ⭐[SuperCollider for the Creative Musician - A Practical Guide](https://global.oup.com/academic/product/supercollider-for-the-creative-musician-9780197617007) - Outstanding tutorial written by Eli Fieldsteel, also responsible for an excellent video tutorial series. 
+- ⭐[The SuperCollider Book - 2nd Edition](https://mitpress.mit.edu/9780262049702/the-supercollider-book/) – The essential reference. Edited by Scott Wilson, David Cottle and Nick Collins. Unfortunately this is very expensive. Hopefully a paperback copy will be released at some point.
 - [Introduction to SuperCollider](https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=4017&lng=eng&id=) - Written by Andrea Valle, includes pdf. Published 2016.
-- [The SuperCollider Book](https://mitpress.mit.edu/books/supercollider-book) – The essential reference. Edited by Scott Wilson, David Cottle and Nick Collins. Foreword by James McCartney. Published 2011.
-- [Example code for The MIT SuperCollider Book](https://github.com/madskjeldgaard/scbookcode)
 - [Thor Magnussons Scoring Sound](https://leanpub.com/ScoringSound) - Cookbook containing synthesis recipes among other things
 - [Mapping and Visualization with SuperCollider](https://archive.org/details/MappingAndVisualizationWithSuperCollider) - Create interactive and repsonsive audio-visual applications with SuperCollider
-- [OXford Handbook of Algorithmic Music](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992) - Not strictly speaking SuperCollider, but a great resource nevertheless.
+- [Oxford Handbook of Algorithmic Music](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992) - Not strictly speaking SuperCollider, but a great resource nevertheless.
+
+#### Free Books
+- [Live Coding: A User's Manual](https://livecodingbook.toplap.org/) - Not strictly speaking SuperCollider, but features a lot of SuperCollider and Tidal musicians.
+- [Example code for first edition of The MIT SuperCollider Book](https://github.com/madskjeldgaard/scbookcode)
 
 ### Research papers
 - [Rethinking the Computer Music Language: SuperCollider](https://www.mitpressjournals.org/doi/pdf/10.1162/014892602320991383) - James McCartney, SuperCollider's father, presenting his work on SuperCollider (2002). 
